@@ -4,8 +4,6 @@ import giraldi.dev.factory.Logistic;
 import giraldi.dev.factory.RoadLogistic;
 import giraldi.dev.factory.SeaLogistic;
 
-import java.util.Objects;
-
 public class Main {
     private static Logistic logistic;
 
