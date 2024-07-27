@@ -11,7 +11,36 @@
 
 <h3 id="design-patterns-cobertos">Design Patterns cobertos</h3>
 
+#### Padrões Criacionais
+
 - [x] Factory Method
+- [ ] Abstract Factory
+- [ ] Builder
+- [ ] Prototype
+- [ ] Singleton
+
+#### Padrões Estruturais
+
+- [ ] Adapter
+- [ ] Bridge
+- [ ] Composite
+- [ ] Decorator
+- [ ] Facade
+- [ ] Flyweight
+- [ ] Proxy
+
+#### Padrões Comportamentais
+
+- [ ] Chain of Responsibility
+- [ ] Command
+- [ ] Iterator
+- [ ] Mediator
+- [ ] Memento
+- [ ] Observer
+- [ ] State
+- [ ] Strategy
+- [ ] Template Method
+- [ ] Visitor
 
 <h3 id="pre-requisitos">Pré-requisitos</h3>
 
