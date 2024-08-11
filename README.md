@@ -1,4 +1,4 @@
-<h1 align="center">🏗️ Node.js API - TypeORM usage example</h1>
+<h1 align="center">🏗️ Padrões de projeto</h1>
 
 <p align="center">Projeto dedicado ao estudo de Design Patterns, exemplificando a implementação de cada um com Java.</p>
 
