@@ -14,7 +14,7 @@
 #### Padrões Criacionais
 
 - [x] Factory Method
-- [ ] Abstract Factory
+- [x] Abstract Factory
 - [ ] Builder
 - [ ] Prototype
 - [ ] Singleton
